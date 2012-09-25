@@ -18,6 +18,8 @@ Copy to your openFrameworks/addons folder.
 
 Dependencies
 ------------
+The example uses my fork of ofxLibdc to capture stereo images from bumblebee
+[https://github.com/memo/ofxLibdc](github.com/memo/ofxLibdc)
 
 Compatibility
 ------------
