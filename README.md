@@ -1,9 +1,9 @@
-MyAddon
+ofxMSAStereoSolver
 =====================================
 
 Introduction
 ------------
-C++ openFrameworks addon 
+C++ openFrameworks addon to calibrate, rectify and create disparity maps from two non-rectified and non-calibrated images (or image sequences) 
 
 Licence
 -------
@@ -18,22 +18,13 @@ Copy to your openFrameworks/addons folder.
 
 Dependencies
 ------------
-none
 
 Compatibility
 ------------
-OF0072
-
 
 Known issues
 ------------
-none
 
 Version history
 ------------
-### v1.1    23/09/2012
-- compatible with OF0072
-- renamed (uppercase) MSA namespace to (lowercase) msa. (kept MSA as an alias for backwards compatibility)
-
-
 
